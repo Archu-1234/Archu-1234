@@ -60,5 +60,5 @@
 <div align="left">
     <a href="https://github.com/archana" target="_blank" rel="noreferrer"> <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
    </div>  <br/>
-[<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2VH8Jv43Gx0dRnW-C0Y36E&ust=1708844327586000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCT_Mazw4QDFQAAAAAdAAAAABA8">]
+[<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">]
 
