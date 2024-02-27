@@ -13,8 +13,8 @@
 
 - 🌱 Learning Never Stops 🚀<br><br>
 
-- 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP , PYTHON** <br><br>
-- 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
+- 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP , JAVA** <br><br>
+- 🌱 I’m currently learning **Full Stack, React js & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **ashwiniarchana399@gmail.com** <br><br>
 
